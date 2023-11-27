@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bona Blog</title>
-    <link>https://bona-ai.github.io/post/</link>
+    <link>https://bona-ai.github.io/bona/post/</link>
     <description>Recent content in Posts on Bona Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bona-ai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bona-ai.github.io/bona/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Bona Blog</title>
-      <link>https://bona-ai.github.io/2023/11/27/hello-world/</link>
+      <link>https://bona-ai.github.io/bona/2023/11/27/hello-world/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bona-ai.github.io/2023/11/27/hello-world/</guid>
+      <guid>https://bona-ai.github.io/bona/2023/11/27/hello-world/</guid>
       <description>这是一篇年终总结预告 敬请期待</description>
     </item>
   </channel>
