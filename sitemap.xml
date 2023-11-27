@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Bona.com/</loc>
+    <loc>https://bona-ai.github.io/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Bona.com/post/</loc>
+    <loc>https://bona-ai.github.io/post/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Bona.com/2023/11/27/hello-world/</loc>
+    <loc>https://bona-ai.github.io/2023/11/27/hello-world/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Bona.com/about/</loc>
+    <loc>https://bona-ai.github.io/about/</loc>
   </url><url>
-    <loc>https://Bona.com/notes/</loc>
+    <loc>https://bona-ai.github.io/notes/</loc>
   </url><url>
-    <loc>https://Bona.com/search/placeholder/</loc>
+    <loc>https://bona-ai.github.io/search/placeholder/</loc>
   </url><url>
-    <loc>https://Bona.com/categories/</loc>
+    <loc>https://bona-ai.github.io/categories/</loc>
   </url><url>
-    <loc>https://Bona.com/archive/</loc>
+    <loc>https://bona-ai.github.io/archive/</loc>
   </url><url>
-    <loc>https://Bona.com/search/</loc>
+    <loc>https://bona-ai.github.io/search/</loc>
   </url><url>
-    <loc>https://Bona.com/tags/</loc>
+    <loc>https://bona-ai.github.io/tags/</loc>
   </url>
 </urlset>
