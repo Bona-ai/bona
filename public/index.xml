@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bona Blog</title>
+    <link>https://Bona.com/</link>
+    <description>Recent content on Bona Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Bona.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Bona Blog</title>
+      <link>https://Bona.com/2023/11/27/hello-world/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Bona.com/2023/11/27/hello-world/</guid>
+      <description>这是一篇年终总结预告 敬请期待</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://Bona.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Bona.com/about/</guid>
+      <description>About Me Huabing Zhao is a software architect, an Istio Member and an ONAP PTL. He has a solid experience in the information and telecommunication technology industry for more than 17 years. Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production. He loves open source and has been contributing to various open source projects, he is a member</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://Bona.com/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Bona.com/notes/</guid>
+      <description>Go 语言学习笔记 Envoy 学习笔记</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://Bona.com/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Bona.com/search/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>https://Bona.com/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Bona.com/archive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
